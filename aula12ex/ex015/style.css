@@ -22,3 +22,17 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+#res {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+#foto {
+    margin: auto;
+    text-align: center;
+    height: 420px;
+}
